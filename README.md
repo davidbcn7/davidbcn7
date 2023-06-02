@@ -5,12 +5,8 @@
 ## Hey! 👋
 I'm David, a 18 years old web developer from Barcelona.
 
-- 🧭 Founder at [@th8ta](https://github.com/th8ta) and [@useverto](https://github.com/useverto)
-
-- 👥 Core team member at [@nestdotland](https://github.com/nestdotland)
-
 ## Skills
-- 👨‍💻 TypeScript, JavaScript, PHP, C#
+- 👨‍💻 HTML, JavaScript, PHP, C, Pyhton
 - ⚙️ React, Svelte, Vue
 - 👁️ SASS, CSS, Stylus
 - 💽 MySQL, SQL, Mongo

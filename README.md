@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/davidbcn7/davidbcn7/main/name.png" alt="David Alós" />
+  <img src="https://raw.githubusercontent.com/davidbcn7/davidbcn7/main/namereadme.png" alt="David Alós" />
 </h1>
 
 ## Hey! 👋

@@ -1,7 +1,3 @@
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/davidbcn7/davidbcn7/main/name.svg" alt="David Alós" />
-</h1>
-
 ## Hey! 👋
 I'm David, a 18 years old web developer from Barcelona.
 

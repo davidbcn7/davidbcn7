@@ -7,7 +7,7 @@ I'm David, a 18 years old web developer from Barcelona.
 - 💽 MySQL, SQL, PL/SQL, MongoDB
 
 ## Get in touch
-- [dalos.dev](https://dalos.dev)
+- My personal website --> [dalos.dev](https://dalos.dev)
 <p align = "left">
   <a href="mailto:david@dalos.dev?subject=[GitHub]%20🔥&body=Hi there!">
     <img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/>

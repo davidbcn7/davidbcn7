@@ -4,7 +4,7 @@ I'm David, a 18 years old web developer from Barcelona.
 ## Skills
 - 👨‍💻 HTML, JavaScript, PHP, C, Pyhton
 - 👁️ SASS, CSS, Stylus
-- 💽 MySQL, SQL, MongoDB
+- 💽 MySQL, SQL, PL/SQL, MongoDB
 
 ## Contact
 - [dalos.dev](https://dalos.dev)

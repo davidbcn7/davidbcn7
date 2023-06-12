@@ -2,8 +2,9 @@
 I'm David, a 18 years old web developer from Barcelona.
 
 ## Skills
-- 👨‍💻 HTML, JavaScript, PHP, C, Pyhton
+- 👨‍💻 HTML, JavaScript
 - 👁️ SASS, CSS, Stylus
+- ⚙️ PHP, C, Python
 - 💽 MySQL, SQL, PL/SQL, MongoDB
 
 ## Get in touch

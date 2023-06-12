@@ -1,5 +1,5 @@
 ## Hey! 👋
-I'm David, a 18 years old web developer from Barcelona.
+I'm David, a 18 years old web developer student from Barcelona.
 
 ## Skills
 - 👨‍💻 HTML, JavaScript

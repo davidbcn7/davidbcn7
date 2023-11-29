@@ -2,10 +2,10 @@
 I'm David, a 18 years old web developer student from Barcelona.
 
 ## Skills
-- 👨‍💻 HTML, JavaScript
-- 👁️ SASS, CSS, Stylus
-- ⚙️ PHP, C, Python
-- 💽 MySQL, SQL, PL/SQL, MongoDB
+- 👨‍💻 
+- 👁️ 
+- ⚙️ 
+- 💽 
 
 ## Get in touch
 - My personal website --> [dalos.dev](https://dalos.dev)

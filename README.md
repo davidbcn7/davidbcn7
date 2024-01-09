@@ -10,7 +10,7 @@ I'm David, a 19 years old web developer student from Barcelona.
   <a href="https://discordapp.com/users/440540807687045121">
     <img src="https://img.shields.io/badge/Discord-%2312100E.svg?style=for-the-badge&logo=discord&logoColor=white&color=7289da"/>
   </a>
-  <a href="[https://medium.com/@diegosj](https://www.linkedin.com/in/david-alos/)">
+  <a href="https://www.linkedin.com/in/david-alos">
     <img src="https://img.shields.io/badge/LinkedIn-%2312100E.svg?style=for-the-badge&logo=linkedIn&logoColor=white&color=0077B5"/>
   </a>
   <a href="https://twitter.com/dalosdev">

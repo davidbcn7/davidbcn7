@@ -1,11 +1,5 @@
 ## Hey! 👋
-I'm David, a 18 years old web developer student from Barcelona.
-
-## Skills
-- 👨‍💻 
-- 👁️ 
-- ⚙️ 
-- 💽 
+I'm David, a 19 years old web developer student from Barcelona.
 
 ## Get in touch
 - My personal website --> [dalos.dev](https://dalos.dev)
